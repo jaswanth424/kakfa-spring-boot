@@ -1,0 +1,7 @@
+Download kafka binary tar gz file
+extract tar gz
+run zookeeper first
+run kafka next
+create 2 spring boot applications: consumer and producer
+
+curl http://localhost:9072/produce -d topic="quickstart-events" -d str="hello" -X POST
