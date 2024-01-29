@@ -8,3 +8,6 @@ kafka_2.12-3.6.1 » bin/kafka-server-start.sh config/server.properties
 For test added this line1
 
 For test added this line2
+
+
+For test added this line
