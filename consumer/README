@@ -1,0 +1,6 @@
+
+Start Zookeeper
+kafka_2.12-3.6.1 » bin/zookeeper-server-start.sh config/zookeeper.properties
+
+Start Apache kafka
+kafka_2.12-3.6.1 » bin/kafka-server-start.sh config/server.properties
