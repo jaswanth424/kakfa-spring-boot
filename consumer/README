@@ -10,4 +10,8 @@ For test added this line1
 For test added this line2
 
 
+<<<<<<< HEAD
 For test added this line3
+=======
+For test added this line4
+>>>>>>> refs/heads/main
